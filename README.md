@@ -2,12 +2,14 @@
 
 <div align="center">
 
+<h3>Fullstack Developer</h3>
+
 (Typescript | Javascript | Nest.js | React | TailwindCSS | HTML | CSS)
 
 <br>
 <br>
 
-Send me a message
+Send me a message:
 
 <div/>
 
