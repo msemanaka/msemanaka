@@ -25,4 +25,11 @@ Send me a message:
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msemanaka&theme=graywhite&show_icons=true)
+
 <div/>
+
+<div>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=msemanaka&theme=graywhite&show)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
