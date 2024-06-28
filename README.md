@@ -30,6 +30,6 @@ Send me a message:
 
 <div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=msemanaka&theme=graywhite&show)]
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=msemanaka&theme=graywhite&show)
   
 </div>
